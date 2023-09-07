@@ -1,0 +1,25 @@
+{
+  "priority" : 3000,
+  "name" : {
+    "texts" : {
+      "DE" : "Eingeschränkter Betrieb: Linie",
+      "EN" : "Limited service: Line",
+      "FR" : "Exploitation limitée: Ligne",
+      "IT" : "Esercizio limitato: Linea"
+    }
+  },
+  "titleKey" : "title_6.1.1.6",
+  "consequencesKeys" : [ "consequences_6.5.1.1_1", "consequences_Verspätung", "consequences_6.5.1.1_2" ],
+  "recommondationsKeys" : [ "recommondations_6.6.1.1" ],
+  "urlKeys" : [ "url_general" ],
+  "useConsequences" : true,
+  "useRecommondations" : true,
+  "useRemarks" : false,
+  "useDescriptions" : false,
+  "useUrls" : true,
+  "showLines" : true,
+  "showStations" : false,
+  "urlMandatory" : false,
+  "endKey" : "end_6.1.1.6",
+  "incidentTypes" : [ "PLANNED", "UNPLANNED" ]
+}
