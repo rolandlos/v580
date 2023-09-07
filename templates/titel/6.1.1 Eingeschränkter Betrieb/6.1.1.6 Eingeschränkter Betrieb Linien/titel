@@ -1,0 +1,35 @@
+{
+  "key" : "title_6.1.1.6",
+  "name" : {
+    "texts" : {
+      "FR" : "Linie: Eingeschränkter Betrieb auf Linie(n)",
+      "EN" : "Linie: Eingeschränkter Betrieb auf Linie(n)",
+      "DE" : "Linie: Eingeschränkter Betrieb auf Linie(n)",
+      "IT" : "Linie: Eingeschränkter Betrieb auf Linie(n)"
+    }
+  },
+  "shorttext" : {
+    "texts" : {
+      "FR" : "Circulation restreinte sur #[(la ligne|les lignes) $linien]",
+      "EN" : "Restrictions on #[(line|lines) $linien]",
+      "DE" : "Einschränkung #[(Linie|Linien) $linien]",
+      "IT" : "Restrizione #[(sulla linea|sulle linee) $linien]"
+    }
+  },
+  "mediumtext" : {
+    "texts" : {
+      "FR" : "Circulation restreinte sur #[(la ligne|les lignes) $linien] #typeOfTrafficShort",
+      "EN" : "Restrictions on #[(line|lines) $linien] #typeOfTrafficShort",
+      "DE" : "Einschränkung #[(Linie|Linien) $linien] #typeOfTrafficShort",
+      "IT" : "Restrizione #[(sulla linea|sulle linee) $linien] #typeOfTrafficShort"
+    }
+  },
+  "longtext" : {
+    "texts" : {
+      "FR" : "La circulation des #typeOfTrafficLong est restreinte sur #[(la ligne|les lignes) $linien].",
+      "EN" : "#typeOfTrafficLong services on the #[$linien (line|lines)] are subject to restrictions.",
+      "DE" : "Der #typeOfTrafficLong der #[(Linie|Linien) $linien] ist eingeschränkt.",
+      "IT" : "Il #typeOfTrafficLong #[(sulla linea|sulle linee) $linien] è limitato."
+    }
+  }
+}

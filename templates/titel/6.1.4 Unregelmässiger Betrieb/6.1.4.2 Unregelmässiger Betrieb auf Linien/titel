@@ -1,0 +1,36 @@
+{
+  "key" : "title_6.1.4.1",
+  "name" : {
+    "texts" : {
+      "EN" : "Line: Irregular traffic ",
+      "DE" : "Linie: Unregelmässiger Betrieb ",
+      "IT" : "Linea: Esercizio irregolare",
+      "FR" : "Ligne : Circulation irrégulière"
+    }
+  },
+  "shorttext" : {
+    "texts" : {
+      "EN" : "Irregular traffic #[(line|lines) $linien]",
+      "DE" : "Unregelmässiger Betrieb #[(Linie|Linien) $linien]",
+      "IT" : "Esercizio irregolare #[(linea|linee) $linien]",
+      "FR" : "Circulation irrégulière #[(ligne|lignes) $linien]"
+    }
+  },
+  "mediumtext" : {
+    "texts" : {
+      "EN" : "Irregular traffic #[(line|lines) $linien] #typeOfTrafficShort",
+      "DE" : "Unregelmässiger Betrieb #[(Linie|Linien) $linien] #typeOfTrafficShort",
+      "IT" : "Esercizio irregolare #[(linea|linee) $linien] #typeOfTrafficShort",
+      "FR" : "Circulation irrégulière #[(ligne|lignes) $linien] #typeOfTrafficShort"
+    }
+  },
+  "longtext" : {
+    "texts" : {
+      "EN" : "#typeOfTrafficLong services of #[(line|lines) $linien] are running at irregular intervals.",
+      "DE" : "Unregelmässiger #typeOfTrafficLong der #[(Linie|Linien) $linien].",
+      "IT" : "Circolazione degli #typeOfTrafficLong irregolare #[(sulla linea|sulle linee) $linien].",
+      "FR" : "Circulation irrégulière des #typeOfTrafficLong sur #[(la ligne|les lignes) $linien]."
+    }
+  },
+  "type" : "TITLE"
+}
