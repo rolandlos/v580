@@ -1,0 +1,37 @@
+{
+  "key" : "grund_101",
+  "priority" : 100,
+  "name" : {
+    "texts" : {
+      "DE" : "Bauarbeiten",
+      "IT" : "lavori di costruzione",
+      "EN" : "Due to construction work",
+      "FR" : "travaux"
+    }
+  },
+  "shorttext" : {
+    "texts" : {
+      "DE" : "Grund: Bauarbeiten",
+      "IT" : "Causa: lavori di costruzione",
+      "EN" : "Due to construction work",
+      "FR" : "Cause: travaux"
+    }
+  },
+  "mediumtext" : {
+    "texts" : {
+      "DE" : "Grund sind Bauarbeiten",
+      "IT" : "Causa sono lavori di costruzione",
+      "EN" : "Due to construction work",
+      "FR" : "Cause: travaux"
+    }
+  },
+  "longtext" : {
+    "texts" : {
+      "DE" : "Der Grund dafür sind Bauarbeiten.",
+      "IT" : "Il motivo sono lavori di costruzione.",
+      "EN" : "This is due to construction work.",
+      "FR" : "Des travaux en sont la cause."
+    }
+  },
+  "type" : "REASON"
+}

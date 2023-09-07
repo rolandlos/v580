@@ -1,0 +1,37 @@
+{
+  "key" : "grund_100",
+  "priority" : 200,
+  "name" : {
+    "texts" : {
+      "DE" : "Betriebsstörung",
+      "IT" : "perturbazione dell’esercizio",
+      "EN" : "Due to service disruption",
+      "FR" : "perturbation d’exploitation"
+    }
+  },
+  "shorttext" : {
+    "texts" : {
+      "DE" : "Grund: Betriebsstörung",
+      "IT" : "Causa: perturbazione dell’esercizio",
+      "EN" : "Due to service disruption",
+      "FR" : "Cause: perturbation d’exploitation"
+    }
+  },
+  "mediumtext" : {
+    "texts" : {
+      "DE" : "Grund ist eine Betriebsstörung",
+      "IT" : "Causa è una perturbazione dell’esercizio",
+      "EN" : "Due to service disruption",
+      "FR" : "Cause: perturbation d’exploitation"
+    }
+  },
+  "longtext" : {
+    "texts" : {
+      "DE" : "Der Grund dafür ist eine Betriebsstörung.",
+      "IT" : "Il motivo è una perturbazione dell’esercizio.",
+      "EN" : "This is due to service disruption.",
+      "FR" : "Une perturbation d’exploitation en est la cause."
+    }
+  },
+  "type" : "REASON"
+}
